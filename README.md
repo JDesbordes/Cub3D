@@ -6,7 +6,7 @@
 
 Ce projet est inspiré du jeu éponyme mondialement connu, considéré comme le premier FPS jamais développé. Il vous permettra d'explorer la technique du ray-casting. Votre objectif est de faire une vue dynamique au sein d'un labyrinthe, dans lequel vous devrez trouver votre chemin.
 
-![Cub3D game](https://user-images.githubusercontent.com/45235527/104591011-67088380-566c-11eb-8374-ba15225da9f5.gif)
+![Cub3D game](https://user-images.githubusercontent.com/12557272/104809388-33a13280-57ed-11eb-8597-f839010e8a49.gif)
 
 # Partie Obligatoire - Cub3D
 
@@ -155,4 +155,4 @@ Liste des bonus :
 
 # Resultat
 
-<img width="1502" alt="Resultat" src="https://user-images.githubusercontent.com/45235527/104629971-7bfc0b80-569a-11eb-8128-3ead701abe3e.png">
+<img width="912" alt="cub3d" src="https://user-images.githubusercontent.com/12557272/104809325-c9888d80-57ec-11eb-85e3-b9d14c208b9f.png">
