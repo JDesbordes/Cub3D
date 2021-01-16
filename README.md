@@ -151,6 +151,9 @@ Liste des bonus :
 - Gain ou perte de points/de vie en prenant des objets/pièges.
 - Portes secrètes.
 - Son et musique.
+- Animations (tir d’arme ou des sprites animés).
+- Plusieurs niveaux.
+- Des armes et des méchants à combattre !
 
 
 # Resultat
